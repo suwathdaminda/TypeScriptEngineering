@@ -1,0 +1,24 @@
+{
+  "name": "chapter-2",
+  "version": "1.0.0",
+  "description": "TypeScript Practice chapter 2",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/suwathdaminda/TypeScriptEngineering.git"
+  },
+  "author": "suwath mihindukulasooriya",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/suwathdaminda/TypeScriptEngineering/issues"
+  },
+  "homepage": "https://github.com/suwathdaminda/TypeScriptEngineering#readme",
+  "devDependencies": {
+    "@types/node": "^24.0.7",
+    "tslint": "^5.20.1",
+    "typescript": "^5.8.3"
+  }
+}

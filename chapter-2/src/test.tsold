@@ -1,0 +1,11 @@
+let a = 1234
+const b = 5678
+var c = a+b
+console.log(c)
+let d = a < 1235
+let e = 88.2
+//let f = 100n
+let y = string = 'test'
+// let z = 'jhon' = 'jhon'
+let x = unknown = 30
+console.log(y)
